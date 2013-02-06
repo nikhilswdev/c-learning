@@ -1,0 +1,7 @@
+if (favchar == "kyle") {
+  printf = you've chosen my fav charatcter
+}
+else {
+  printf = kyle is the best
+}
+
