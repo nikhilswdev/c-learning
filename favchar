@@ -2,6 +2,6 @@ if (favchar == "cartman") {
   printf = you've chosen my fav charatcter
 }
 else {
-  printf = cartman is the best 
+  printf = kyle is the best
 }
 
